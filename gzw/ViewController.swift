@@ -17,8 +17,7 @@ class ViewController: UIViewController ,UIScrollViewDelegate{
         // Do any additional setup after loading the view, typically from a nib.
         
         loadUrl(url: "http://192.168.43.93:4800", web: theWebView)//测试
-        //
-        //loadUrl(url: "http://zhuhai.test.wginfo.com.cn", web: theWebView)// 智慧国资
+        
         
      
         
